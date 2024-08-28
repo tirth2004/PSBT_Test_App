@@ -32,3 +32,9 @@ The PSBT Test App allows users to input custom PSBTs for signing and provides te
 3. **Run the Application::**
    ```bash
    dotnet run
+
+## Sample video of usage
+
+
+https://github.com/user-attachments/assets/3c87defc-c957-437f-a659-ff7acde6c2b0
+

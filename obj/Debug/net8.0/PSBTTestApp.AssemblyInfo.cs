@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PSBTTestApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0005f52db9889db96b080e0bc39eaac9f27212ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("PSBTTestApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PSBTTestApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PSBTTestApp",
   "resources": {
-    "hash": "sha256-OUlYs5qFIrC+XMLwUCOcoeu59h+CE+YwWXBGZ9vBSNQ=",
+    "hash": "sha256-K1OOAwSk4LRv5yMbj03et5o18qhj44nH+bWPKWLE3QY=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.k303tt9mdx.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "PSBTTestApp.wasm": "sha256-uZ8KAzhWK/0mimQxNcIW/cC8pLpIsAOKsZ+wRxtX6o0="
+      "PSBTTestApp.wasm": "sha256-8//1eF5aqnD1l/Fa84y7HzHd1zpXM/ZKnohUz7XcCSU="
     },
     "pdb": {
-      "PSBTTestApp.pdb": "sha256-XpRdIpwj+4B25HlVmfJ0Ej4F4g1o9F/h2B+PKsw2HZE="
+      "PSBTTestApp.pdb": "sha256-YeGHaOtq9z87hErHmSGTl2R4eq4rS1ooONRmy23m6e8="
     }
   },
   "cacheBootResources": true,

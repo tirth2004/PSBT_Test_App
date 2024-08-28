@@ -1029,3 +1029,4 @@
 /Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/obj/Debug/net8.0/refint/PSBTTestApp.dll
 /Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/obj/Debug/net8.0/PSBTTestApp.pdb
 /Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/obj/Debug/net8.0/ref/PSBTTestApp.dll
+/Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/obj/Debug/net8.0/PSBTTestApp.sourcelink.json

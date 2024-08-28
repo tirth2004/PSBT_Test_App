@@ -1030,3 +1030,6 @@
 /Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/obj/Debug/net8.0/PSBTTestApp.pdb
 /Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/obj/Debug/net8.0/ref/PSBTTestApp.dll
 /Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/obj/Debug/net8.0/PSBTTestApp.sourcelink.json
+/Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/bin/Debug/net8.0/publish/web.config
+/Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/bin/Debug/net8.0/publish/wwwroot/sample-data/weather.json
+/Users/tirthbhayani/SOB/BlazerProject/PSBTTestApp/bin/Debug/net8.0/publish/wwwroot/_framework/blazor.boot.json
